@@ -89,5 +89,5 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnusai2005&show_icons=true&theme=tokyonight" alt="Vishnusai's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=vishnusai2005&show_icons=true&theme=tokyonight" alt="Vishnusai's GitHub Stats" />
 </p>
