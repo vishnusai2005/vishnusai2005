@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I am an AI & ML Developer currently pursuing my B.Tech in CSE (AI & ML) at Mohan Babu University (CGPA: 9.01). My core expertise lies in architecting **Agentic AI workflows** and designing **Custom Transformer models** for advanced Natural Language Processing and generative tasks. 
+I am an AI & ML Developer currently pursuing my B.Tech in CSE (AI & ML) at Mohan Babu University (CGPA: 8.89). My core expertise lies in architecting **Agentic AI workflows** and designing **Custom Transformer models** for advanced Natural Language Processing and generative tasks. 
 
 Going beyond traditional data science, I specialize in building autonomous AI systems, performing high-dimensional exploratory data analysis, and applying nature-inspired optimization algorithms to enhance deep neural networks. I am highly passionate about deploying these robust models into scalable cloud infrastructures.
 
@@ -88,6 +88,10 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vishnusai2005&show_icons=true&theme=tokyonight" alt="Vishnusai's GitHub Stats" />
-</p>
+<div align="center">
+  <h3>📈 Impact & Milestones</h3>
+  <img src="https://img.shields.io/badge/Academic_Excellence-8.89_CGPA-00ff00?style=for-the-badge&logo=google-scholar&logoColor=black" alt="CGPA" />
+  <img src="https://img.shields.io/badge/National_Finalist-SRM_MSC_2.0_Hackathon-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hackathon" />
+  <img src="https://img.shields.io/badge/Live_Deployments-AWS_EC2_%7C_Apache-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Optimization_Focus-Bat_Algorithm-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white" alt="Optimization" />
+</div>
