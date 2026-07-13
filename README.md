@@ -87,4 +87,4 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 ---
 
 
-<img src="assets/neural-banner.svg" alt="Neural Network Animation" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+with+ML+%26+Deep+Learning;Exploring+Transformers+%26+NLP;Always+training+something+new" alt="Typing SVG" />
