@@ -88,10 +88,4 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <h3>📈 Impact & Milestones</h3>
-  <img src="https://img.shields.io/badge/Academic_Excellence-8.89_CGPA-00ff00?style=for-the-badge&logo=google-scholar&logoColor=black" alt="CGPA" />
-  <img src="https://img.shields.io/badge/National_Finalist-SRM_MSC_2.0_Hackathon-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hackathon" />
-  <img src="https://img.shields.io/badge/Live_Deployments-AWS_EC2_%7C_Apache-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Optimization_Focus-Bat_Algorithm-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white" alt="Optimization" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Node.js;Exploring+Machine+Learning;Always+shipping+something+new" alt="Typing SVG" />
