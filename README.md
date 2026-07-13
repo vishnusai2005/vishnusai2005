@@ -1,30 +1,46 @@
-<h1 align="center">Hi there 👋, I'm Vydhyam Vishnusai</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | AI & ML Specialist</h3>
+<h1 align="center">Hi 👋, I'm Vydhyam Vishnusai</h1>
+<h3 align="center">AI/ML Developer & Researcher | Specializing in Agentic AI & Transformer Architectures</h3>
 
 <p align="center">
-  Passionate about building scalable, real-world intelligent solutions using Machine Learning, Deep Learning, and NLP. Always eager to solve complex data problems and explore nature-inspired optimization algorithms.
+  Designing cutting-edge autonomous AI agents and scalable Deep Learning architectures. Bridging the gap between complex mathematical optimizations and real-world intelligent systems.
 </p>
 
 ---
 
-### 👤 About Me
+### 🧠 About Me
 
-* 🎓 **Education:** B.Tech in Computer Science and Engineering (AI & ML) at Mohan Babu University (Current CGPA: 9.01)
-* 🧠 **Core Focus:** Machine Learning, Deep Learning, Natural Language Processing (NLP), and Feature Engineering.
-* 🚀 **Currently Exploring:** Advanced Transformer models, serverless architectures, and end-to-end ML deployment.
-* 🤝 **Open to Collaborations:** AI/ML solutions, exploratory data analysis (EDA), and automation projects.
+I am an AI & ML Developer currently pursuing my B.Tech in CSE (AI & ML) at Mohan Babu University (CGPA: 9.01). My core expertise lies in architecting **Agentic AI workflows** and designing **Custom Transformer models** for advanced Natural Language Processing and generative tasks. 
+
+Going beyond traditional data science, I specialize in building autonomous AI systems, performing high-dimensional exploratory data analysis, and applying nature-inspired optimization algorithms to enhance deep neural networks. I am highly passionate about deploying these robust models into scalable cloud infrastructures.
+
+* ⚙️ **Core Expertise:** Agentic AI, Transformer Architectures, Deep Learning, and End-to-End NLP Pipelines.
+* 🔬 **Research & Optimization:** Advanced application of evolutionary algorithms (e.g., Bat Algorithm) for neural network optimization.
+* ☁️ **Infrastructure:** Deploying high-performance models using AWS (EC2) and serverless architectures.
+* 🤝 **Open to Collaborations:** Generative AI research, autonomous agents, and enterprise-level ML system design.
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Advanced Tech Stack & Tools
 
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Core Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </a>
   
-  <!-- Data Science & ML Libraries -->
+  <!-- Advanced AI & DL -->
+  <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Transformers-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Transformers" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  </a>
+
+  <!-- Data Processing -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   </a>
@@ -34,28 +50,19 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  </a>
-  
-  <!-- NLP & Advanced DL -->
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Hugging Face Transformers" />
-  </a>
-  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
 
-  <!-- Tools & Infrastructure -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </a>
+  <!-- Deployment & APIs -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Flagship Projects
 
 * 🤖 **Agentic AI & Transformer Models:** 
   Designing and implementing autonomous AI agents capable of complex reasoning tasks, alongside custom Transformer architectures for advanced NLP operations and context understanding.
@@ -72,15 +79,15 @@
 
 ---
 
-### 🏆 Achievements & Milestones
+### 🏆 Milestones & Engagements
 
-* 💡 **IIT Tirupati Startup Boot Camp:** Successfully participated in the prestigious 2-Day "Innovation to Investment" Boot Camp, gaining hands-on experience in building scalable business models and entrepreneurial strategies.
-* 💻 **Hackathon Competitor:** Actively participated in the national-level SRM MSC 2.0 Hackathon, collaborating on high-speed application development and problem-solving.
+* 💡 **Innovation to Investment (IIT Tirupati):** Strategized on scalable business models and tech entrepreneurship during an intensive 2-Day Startup Boot Camp.
+* 💻 **SRM MSC 2.0 National Hackathon:** Competed at the national level, demonstrating rapid prototyping, architectural design, and high-speed problem solving.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnusai2005&show_icons=true&theme=radical" alt="Vishnusai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnusai2005&show_icons=true&theme=tokyonight" alt="Vishnusai's GitHub Stats" />
 </p>
