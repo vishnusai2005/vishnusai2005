@@ -1,112 +1,86 @@
-<h1 align="center">Hey 👋, I'm Vydhyam Vishnusai</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student @ Mohan Babu University | Aspiring Machine Learning Engineer</h3>
+<h1 align="center">Hi there 👋, I'm Vydhyam Vishnusai</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | AI & ML Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/vishnusai2005">
-    <img src="https://komarev.com/ghpvc/?username=vishnusai2005&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
-Passionate about building scalable real-world intelligent solutions using Machine Learning, Deep Learning, and NLP. Exploring nature-inspired algorithms, cloud architectures, and data-driven applications.
+  Passionate about building scalable, real-world intelligent solutions using Machine Learning, Deep Learning, and NLP. Always eager to solve complex data problems and explore nature-inspired optimization algorithms.
 </p>
 
 ---
 
 ### 👤 About Me
 
-* 🏦 **Loan Prediction Model:** 
-  A robust Machine Learning system designed to automate and predict the loan approval process. By analyzing applicant demographics, income, and credit history, this model accurately classifies whether a loan should be approved or rejected.
-* ⚛️ **Higgs Boson Detection:** 
-  An advanced Deep Learning project applied to high-energy physics. This model processes complex, large-scale particle collision datasets to accurately classify and distinguish the Higgs Boson signal from background noise.
-* 🚘 **Car Price Prediction:** 
-  A predictive regression model that estimates the market value of used cars. It performs extensive exploratory data analysis (EDA) and feature engineering on attributes like mileage, brand, and year of manufacturing to provide highly accurate price estimations.
-* 🦠 **COVID-19 Disease Severity Prediction:** 
-  A sophisticated predictive framework leveraging Multi-Layer Perceptrons (MLP). The model’s performance was specifically optimized using the nature-inspired Bat Algorithm to improve accuracy in predicting patient severity.
-* 🤝 **Collaborations:** Always open to collaborating on AI/ML projects, serverless applications, and automation tools.
+* 🎓 **Education:** B.Tech in Computer Science and Engineering (AI & ML) at Mohan Babu University (Current CGPA: 9.01)
+* 🧠 **Core Focus:** Machine Learning, Deep Learning, Natural Language Processing (NLP), and Feature Engineering.
+* 🚀 **Currently Exploring:** Advanced Transformer models, serverless architectures, and end-to-end ML deployment.
+* 🤝 **Open to Collaborations:** AI/ML solutions, exploratory data analysis (EDA), and automation projects.
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="left">
+  <!-- Programming Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  </a>
+  
+  <!-- Data Science & ML Libraries -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  </a>
+  
+  <!-- NLP & Advanced DL -->
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Hugging Face Transformers" />
+  </a>
+  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
+
+  <!-- Tools & Infrastructure -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-* 🧠 **Machine Learning & DL Predictive Models:** 
-  * Developed robust predictive models including **Loan Status Prediction**, **Higgs Boson Classification**, and **Car Price Prediction** utilizing advanced data preprocessing and ML algorithms.
-* 🔬 **COVID-19 Disease Severity Prediction:** 
-  * Engineered a predictive framework leveraging Multi-Layer Perceptrons (MLP) optimized via the Bat Algorithm.
-* 🚘 **AUTO VISION:** 
-  * An intelligent computer vision system utilizing Object Character Recognition (OCR), YOLOv8, and CNNs for high-accuracy object detection.
-* 🌐 **Time Converter Utility Server:** 
-  * Built and deployed a live utility web server on an Amazon EC2 instance using Apache infrastructure.
+* 🤖 **Agentic AI & Transformer Models:** 
+  Designing and implementing autonomous AI agents capable of complex reasoning tasks, alongside custom Transformer architectures for advanced NLP operations and context understanding.
+* 🦠 **COVID-19 Disease Severity Prediction:** 
+  A highly sophisticated predictive framework leveraging Multi-Layer Perceptrons (MLP). Engineered the model’s weight optimization using the nature-inspired **Bat Algorithm**, significantly outperforming traditional gradient descent methods in predicting patient severity.
+* 👁️ **AUTO VISION System:** 
+  An intelligent computer vision architecture integrating Object Character Recognition (OCR), YOLOv8, and Convolutional Neural Networks (CNNs) for high-speed, high-accuracy spatial and text detection.
+* ⚛️ **Higgs Boson Signal Detection:** 
+  An advanced Deep Learning application in high-energy physics. Designed neural architectures to process large-scale, multi-dimensional particle collision datasets, effectively isolating the Higgs Boson signal from extreme background noise.
+* 🏦 **Automated Loan Prediction System:** 
+  An end-to-end Machine Learning pipeline that automates credit risk assessment. The model utilizes extensive feature engineering on applicant financial histories to execute high-precision classification.
+* 🚘 **Advanced Car Price Regression:** 
+  A comprehensive predictive model estimating used car market values. Involves deep Exploratory Data Analysis (EDA) pipelines and robust regression algorithms based on multi-variable constraints.
 
 ---
 
-### 🏆 Achievements & Bootcamps
+### 🏆 Achievements & Milestones
 
-* 💡 **Startup Boot Camp (IIT Tirupati):** Participated in the 2-Day "Innovation to Investment" Boot Camp, focusing on scalable business models and entrepreneurial frameworks.
-* 💻 **Hackathons:** Actively participated and competed in the national-level SRM MSC 2.0 Hackathon.
+* 💡 **IIT Tirupati Startup Boot Camp:** Successfully participated in the prestigious 2-Day "Innovation to Investment" Boot Camp, gaining hands-on experience in building scalable business models and entrepreneurial strategies.
+* 💻 **Hackathon Competitor:** Actively participated in the national-level SRM MSC 2.0 Hackathon, collaborating on high-speed application development and problem-solving.
 
 ---
 
-### 🛠️ Languages, Libraries & Tools I Work With
+### 📈 GitHub Stats
 
 <p align="center">
-  <!-- Core Languages -->
-  <a href="https://python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <br><br>
-  
-  <!-- Data Science & ML Libraries -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  </a>
-  <br><br>
-  
-  <!-- NLP & Advanced DL -->
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=openai&logoColor=white" alt="NLP"/>
-  </a>
-  <br><br>
-  
-  <!-- API & Tools -->
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnusai2005&show_icons=true&theme=radical" alt="Vishnusai's GitHub Stats" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnusai2005&show_icons=true&theme=radical" alt="vishnusai2005's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnusai2005&theme=radical" alt="vishnusai2005's GitHub Streak" />
-</p>
-
----
-<p align="center">
-  <i>"Transforming data into insights and ideas into scalable code."</i>
-</p> 
