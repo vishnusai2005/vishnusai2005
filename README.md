@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vydhyam Vishnusai</h1>
-<h3 align="center">AI/ML Developer & Researcher | Specializing in Agentic AI & Transformer Architectures</h3>
+<h3 align="center">AI/ML Developer & Researcher | Specializing in Agentic AI & Transformer Architectures.</h3>
 
 <p align="center">
   Designing cutting-edge autonomous AI agents and scalable Deep Learning architectures. Bridging the gap between complex mathematical optimizations and real-world intelligent systems.
