@@ -16,7 +16,7 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 * ⚙️ **Core Expertise:** Agentic AI, Transformer Architectures, Deep Learning, and End-to-End NLP Pipelines.
 * 🔬 **Research & Optimization:** Advanced application of evolutionary algorithms (e.g., Bat Algorithm) for neural network optimization.
 * ☁️ **Infrastructure:** Deploying high-performance models using AWS (EC2) and serverless architectures.
-* 🤝 **Open to Collaborations:** Generative AI research, autonomous agents, and enterprise-level ML system design
+* 🤝 **Open to Collaborations:** Generative AI research, autonomous agents, and enterprise-level ML system design.
 
 ---
 
