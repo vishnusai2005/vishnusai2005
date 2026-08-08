@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I am an AI & ML Developer currently pursuing my B.Tech in CSE (AI & ML) at Mohan Babu University (CGPA: 8.71). My core expertise lies in architecting **Agentic AI workflows** and designing **Custom Transformer models** for advanced Natural Language Processing and generative tasks.
+I am an AI & ML Developer currently pursuing my B.Tech in CSE (AI & ML) at Mohan Babu University (CGPA: 8.71). My core expertise lies in architecting **Agentic AI workflows** and designing **Custom Transformer models** for advanced Natural Language Processing and generative tasks
 
 Going beyond traditional data science, I specialize in building autonomous AI systems, performing high-dimensional exploratory data analysis, and applying nature-inspired optimization algorithms to enhance deep neural networks. I am highly passionate about deploying these robust models into scalable cloud infrastructures.
 
