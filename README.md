@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vydhyam Vishnusai</h1>
+<h1 align="center">Hi 👋, I'm Vydhyam Vishnusai.</h1>
 <h3 align="center">AI/ML Developer & Researcher | Specializing in Agentic AI & Transformer Architectures.</h3>
 
 <p align="center">
