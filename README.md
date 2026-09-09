@@ -65,7 +65,7 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 ### 🚀 Flagship Projects
 
 * 🤖 **Agentic AI & Transformer Models:** 
-  Designing and implementing autonomous AI agents capable of complex reasoning tasks, alongside custom Transformer architectures for advanced NLP operations and context understanding.
+  Designing and implementing autonomous AI agents capable of complex reasoning tasks, alongside custom Transformer architectures for advanced NLP operations and context understanding
 * 🦠 **COVID-19 Disease Severity Prediction:** 
   A highly sophisticated predictive framework leveraging Multi-Layer Perceptrons (MLP). Engineered the model’s weight optimization using the nature-inspired **Bat Algorithm**, significantly outperforming traditional gradient descent methods in predicting patient severity.
 * 👁️ **AUTO VISION System:** 
