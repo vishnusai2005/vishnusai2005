@@ -82,7 +82,7 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 ### 🏆 Milestones & Engagements
 
 * 💡 **Innovation to Investment (IIT Tirupati):** Strategized on scalable business models and tech entrepreneurship during an intensive 2-Day Startup Boot Camp.
-* 💻 **SRM MSC 2.0 National Hackathon:** Competed at the national level, demonstrating rapid prototyping, architectural design, and high-speed problem solving.
+* 💻 **SRM MSC 2.0 National Hackathon:** Competed at the national level, demonstrating rapid prototyping, architectural design, and high-speed problem solving
 
 ---
 
