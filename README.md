@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vydhyam Vishnusai</h1>
+<h1 align="center">Hi 👋, I'm Vydhyam Vishnusai.</h1>
 <h3 align="center">AI/ML Developer & Researcher | Specializing in Agentic AI & Transformer Architecture.</h3>
 
 <p align="center">
@@ -75,7 +75,7 @@ Going beyond traditional data science, I specialize in building autonomous AI sy
 * 🏦 **Automated Loan Prediction System:** 
   An end-to-end Machine Learning pipeline that automates credit risk assessment. The model utilizes extensive feature engineering on applicant financial histories to execute high-precision classification.
 * 🚘 **Advanced Car Price Regression:** 
-  A comprehensive predictive model estimating used car market values. Involves deep Exploratory Data Analysis (EDA) pipelines and robust regression algorithms based on multi-variable constraints.
+  A comprehensive predictive model estimating used car market values. Involves deep Exploratory Data Analysis (EDA) pipelines and robust regression algorithms based on multi-variable constraints
 
 ---
 
