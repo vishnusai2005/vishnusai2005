@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vydhyam Vishnusai.</h1>
-<h3 align="center">AI/ML Developer & Researcher | Specializing in Agentic AI & Transformer Architecture</h3>
+<h3 align="center">AI/ML Developer & Researcher | Specializing in Agentic AI & Transformer Architecture.</h3>
 
 <p align="center">
-  Designing cutting-edge autonomous AI agents and scalable Deep Learning architectures. Bridging the gap between complex mathematical optimizations and real-world intelligent systems.
+  Designing cutting-edge autonomous AI agents and scalable Deep Learning architectures. Bridging the gap between complex mathematical optimizations and real-world intelligent systems
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 I am an AI & ML Developer currently pursuing my B.Tech in CSE (AI & ML) at Mohan Babu University (CGPA: 8.71). My core expertise lies in architecting **Agentic AI workflows** and designing **Custom Transformer models** for advanced Natural Language Processing and generative tasks.
 
-Going beyond traditional data science, I specialize in building autonomous AI systems, performing high-dimensional exploratory data analysis, and applying nature-inspired optimization algorithms to enhance deep neural networks. I am highly passionate about deploying these robust models into scalable cloud infrastructures
+Going beyond traditional data science, I specialize in building autonomous AI systems, performing high-dimensional exploratory data analysis, and applying nature-inspired optimization algorithms to enhance deep neural networks. I am highly passionate about deploying these robust models into scalable cloud infrastructures.
 
 * ⚙️ **Core Expertise:** Agentic AI, Transformer Architectures, Deep Learning, and End-to-End NLP Pipelines.
 * 🔬 **Research & Optimization:** Advanced application of evolutionary algorithms (e.g., Bat Algorithm) for neural network optimization.
